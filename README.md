@@ -1,14 +1,18 @@
-# Learning resourse for OAlab
+# Learning resourses
 
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
-## Linear Algrbra
+## Linear Algebra
 
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 
+
+## Statistics
+| Resource | Video          | Lecture Notes | Book   | Website |
+| ---      | :---:          | :---:         | :---:  | :---:   |
 
 
 ## Bayesian & Probablistic Modelling
