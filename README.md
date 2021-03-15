@@ -15,10 +15,14 @@
 | Stephen Boyd - Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares | [:movie_camera:](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | |[:book:](https://web.stanford.edu/~boyd/vmls/vmls.pdf)| [:link:](https://web.stanford.edu/~boyd/vmls/)
 
 
-## Statistics
+## Probability & Statistics
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
-
+| NTHU MATH 2810 - Probability (undergraduate level) | [:movie_camera:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php) | [:memo:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php) | |[:link:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php)
+| NTHU MATH 2820 - Statistics (undergraduate level) | [:movie_camera:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2820/index.php) | [:memo:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2820/index.php) | | [:link:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2820/index.php)
+| NTHU STAT 3875 - Mathematical Statistics (undergraduate level) | [:movie_camera:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.php) | [:memo:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.php) | | [:link:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.php)
+| MIT - Statistics for Applications | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/) | | |[:link:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)|
+| CMU 36-705 Intermediate Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_) | [:memo:](http://www.stat.cmu.edu/~larry/=stat705/) | [:book:](https://github.com/thefuryelement/Readers-Solitude/raw/master/All%20Of%20Statistics%20-%20Larry%20Wasserman.pdf) | [:link:](http://www.stat.cmu.edu/~larry/=stat705/)
 
 ## Bayesian & Probablistic Modelling
 
