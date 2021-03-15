@@ -8,9 +8,11 @@
 
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
-| Linear Algebra I  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=271) |
-| Linear Algebra II | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=361) |
-| MIT - Linear Algebra |[:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |
+| NCTU Math - Linear Algebra I  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=271) |
+| NCTU Math - Linear Algebra II | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=361) |
+| Gilbert Strang - Linear Algebra |[:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |
+| Gilbert Strang -Matrix Methods in Data Analysis, Signal Processing, and Machine Learning | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/assignments/) |  | [:link:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) |
+| Stephen Boyd - Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares | [:movie_camera:](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | |[:book:](https://web.stanford.edu/~boyd/vmls/vmls.pdf)| [:link:](https://web.stanford.edu/~boyd/vmls/)
 
 
 ## Statistics
