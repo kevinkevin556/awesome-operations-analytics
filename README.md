@@ -8,6 +8,9 @@
 
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
+| Linear Algebra I  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=271) |
+| Linear Algebra II | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=361) |
+| MIT - Linear Algebra |[:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |
 
 
 ## Statistics
