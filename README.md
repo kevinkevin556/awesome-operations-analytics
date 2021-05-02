@@ -1,11 +1,12 @@
-# Learning resourses
+# Learning Resourses for Machine Learning, Mathematical Programming and Optimization
 
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
-## Linear Algebra
+## Mathematical Foundations
 
+### Linear Algebra
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 | NCTU Math - Linear Algebra I  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=271) |
@@ -15,7 +16,7 @@
 | Stephen Boyd - Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares | [:movie_camera:](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | |[:book:](https://web.stanford.edu/~boyd/vmls/vmls.pdf)| [:link:](https://web.stanford.edu/~boyd/vmls/)
 
 
-## Probability & Statistics
+### Probability & Statistics
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 | NTHU MATH 2810 - Probability (undergraduate level) | [:movie_camera:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php) | [:memo:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php) | |[:link:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php)
@@ -24,8 +25,9 @@
 | MIT - Statistics for Applications | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides) | |[:link:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)|
 | CMU 36-705 Intermediate Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_) | [:memo:](http://www.stat.cmu.edu/~larry/=stat705/) | [:book:](https://github.com/thefuryelement/Readers-Solitude/raw/master/All%20Of%20Statistics%20-%20Larry%20Wasserman.pdf) | [:link:](http://www.stat.cmu.edu/~larry/=stat705/)
 
-## Bayesian & Probablistic Modelling
+## Bayesian & Probablistic Modelling Probalistic Machine Learning
 
+### Bayesian Statistics
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Multivariate Analysis: Model-Based Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLKBC9odgDUw5NYjpKbIq0U-Vbg_JCsx4U)|
@@ -34,3 +36,13 @@
 | Statistical Rethinking |[:movie_camera:](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)| [:memo:](https://github.com/rmcelreath/stat_rethinking_2020)|[:book:](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf)|[:link:](http://xcelab.net/rm/statistical-rethinking/)|
 | A Student’s Guide to Bayesian Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG) | | [:book:](https://dokumen.pub/download/a-students-guide-to-bayesian-statistics-2017942214-9781473916357-9781473916364.html)
 
+### Gaussian Process
+| Resource | Video | Lecture Notes | Book  | Website |
+| ---      | :---:   | :---:       | :---: | :---:   |
+| Machine Learning Lecture 26 "Gaussian Processes" - Cornell CS4780 SP17 | [:movie_camera:](https://www.youtube.com/watch?v=R-NUdqxKjos&t=1416s) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
+
+
+### Bayesian Optimization
+| Resource | Video | Lecture Notes | Book  | Website |
+| ---      | :---:   | :---:       | :---: | :---:   |
+| Machine Learning Lecture 27 "Gaussian Processes II / KD-Trees / Ball-Trees" - Cornell CS4780 SP17| [:movie_camera:](https://www.youtube.com/watch?v=BzHJ57QCdVo) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
