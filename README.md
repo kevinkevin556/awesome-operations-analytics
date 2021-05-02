@@ -39,10 +39,12 @@
 ### Gaussian Process
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
-| Machine Learning Lecture 26 "Gaussian Processes" - Cornell CS4780 SP17 | [:movie_camera:](https://www.youtube.com/watch?v=R-NUdqxKjos&t=1416s) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
+| Cornell CS4780 SP17 Machine Learning Lecture 26 | [:movie_camera:](https://www.youtube.com/watch?v=R-NUdqxKjos&t=1416s) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
+| CPSC 540 Introduction to Gaussian processes |  [:movie_camera:](https://www.youtube.com/watch?v=4vGiHC35j9s) | [:memo:](https://www.cs.ubc.ca/~nando/540-2013/lectures/l6.pdf)
+| CPSC 540 Introduction Gaussian processes |  [:movie_camera:](https://www.youtube.com/watch?v=MfHKW5z-OOA&t=2857s) | [:memo:](https://www.cs.ubc.ca/~nando/540-2013/lectures/l6.pdf)
 
 
 ### Bayesian Optimization
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
-| Machine Learning Lecture 27 "Gaussian Processes II / KD-Trees / Ball-Trees" - Cornell CS4780 SP17| [:movie_camera:](https://www.youtube.com/watch?v=BzHJ57QCdVo) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
+| Cornell CS4780 SP17 Machine Learning Lecture 27 | [:movie_camera:](https://www.youtube.com/watch?v=BzHJ57QCdVo) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
