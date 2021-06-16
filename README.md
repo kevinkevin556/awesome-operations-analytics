@@ -11,7 +11,7 @@
   * [Reinforcement Learning](#reinforcement-learning)
 * [Mathematical Programming & Optimization](#mathematical-programming--optimization)
   *  [Linear Programming](#linear-programming)
-  *  [Integer Programming](#integer-programming)
+  *  [Integer Programming & Combinatorial Optimization](#integer-programming--combinatorial-optimization)
   *  [Stochastic Programming](#stochastic-programming)
   *  [Bayesian Optimization](#bayesian-optimization)
 
@@ -83,18 +83,24 @@
 ### [Linear Programming]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
-|          | :movie_camera: | :memo:        | :book: | :link:  |
-
-### [Integer Programming]()
+| NCTU Linear Programming   | [:movie_camera:](https://www.bilibili.com/video/BV1A5411r7TK?from=search&seid=11959137964899870534) |
+### [Integer Programming & Combinatorial Optimization]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
-|          | :movie_camera: | :memo:        | :book: | :link:  |
+| NCTU Integer Programming  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=3&gid=0&nid=402) | [:memo:](https://ocw.nctu.edu.tw/course/ip002/lecture_IP1.pdf)
+| James Davis IE511 | [:movie_camera:](https://www.youtube.com/channel/UCsZ5SOyr3XLIa3zXJsxkeXQ/videos)
+| Constantine Caramanis - Combinatorial Optimization | [:movie_camera:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL) |
 
 ### [Stochastic Programming]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
-|          | :movie_camera: | :memo:        | :book: | :link:  |
+| LINMA 2491  Operations Research | [:movie_camera:](https://www.youtube.com/user/el011301/videos) | [:memo:](https://ap-rg.eu/courses/operations-research-linma-2491/)| | | [:link:](https://ap-rg.eu/courses/operations-research-linma-2491/)|
+| IMPA - Basic Course on Stochastic Programming |  [:movie_camera:](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSmKVxiE130o1KebekNk00R) | [:memo:](https://svan2016.sciencesconf.org/resource/page/id/26.html) | | [:link:](https://svan2016.sciencesconf.org/resource/page/id/26.html)
 
+
+### [Convex Optimization]()
+| Resource | Video          | Lecture Notes | Book   | Website |
+| ---      | :---:          | :---:         | :---:  | :---:   |
 
 ### [Bayesian Optimization]()
 | Resource | Video | Lecture Notes | Book  | Website |
