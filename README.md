@@ -1,5 +1,19 @@
 # Learning Resourses for Machine Learning, Mathematical Programming and Optimization
 
+* [Linear Algebra](#linear-algebra)
+* [Statistics](#statistics)
+  * [Probability & Statistics](#probability--statistics)
+  * [Bayesian Statistics](#bayesian-statistics)
+* [Machine Learning](#machine-learning)
+  * [General Machine Learning / Statistical Machine Learning](#general-machine-learning--statistical-machine-learning) 
+  * [Probalistic Machine Learning / Bayesian Learning](#probalistic-machine-learning--bayesian-learning)
+  * [Deep Learning](#deep-learning)
+  * [Reinforcement Learning](#reinforcement-learning)
+* [Mathematical Programming & Optimization](#mathematical-programming--optimization)
+  *  [Linear Programming](#linear-programming)
+  *  [Integer Programming](#integer-programming)
+  *  [Stochastic Programming](#stochastic-programming)
+  *  [Bayesian Optimization](#bayesian-optimization)
 
 ### Linear Algebra
 | Resource | Video          | Lecture Notes | Book   | Website |
@@ -13,7 +27,7 @@
 
 ## Statistics
 
-### Probability & Statistics
+### [Probability & Statistics]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 | NTHU MATH 2810 - Probability (undergraduate level) | [:movie_camera:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php) | [:memo:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php) | |[:link:](http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.php)
@@ -22,7 +36,7 @@
 | MIT - Statistics for Applications | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides) | |[:link:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)|
 | CMU 36-705 Intermediate Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_) | [:memo:](http://www.stat.cmu.edu/~larry/=stat705/) | [:book:](https://github.com/thefuryelement/Readers-Solitude/raw/master/All%20Of%20Statistics%20-%20Larry%20Wasserman.pdf) | [:link:](http://www.stat.cmu.edu/~larry/=stat705/)
 
-### Bayesian Statistics
+### [Bayesian Statistics]()
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Multivariate Analysis: Model-Based Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLKBC9odgDUw5NYjpKbIq0U-Vbg_JCsx4U)|
@@ -32,7 +46,7 @@
 | A Student’s Guide to Bayesian Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG) | | [:book:](https://dokumen.pub/download/a-students-guide-to-bayesian-statistics-2017942214-9781473916357-9781473916364.html)
 
 
-### Gaussian Process
+### [Gaussian Process]()
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Cornell CS4780 SP17 Machine Learning Lecture 26 | [:movie_camera:](https://www.youtube.com/watch?v=R-NUdqxKjos&t=1416s) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
@@ -42,41 +56,47 @@
 
 ## Machine Learning
 
-### General Machine Learning / Statistical Machine Learning
+### [General Machine Learning / Statistical Machine Learning]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
 
-### Probalistic Machine Learning / Bayesian Learning
+### [Probalistic Machine Learning / Bayesian Learning]()
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 |Zoubin Ghahramani - Machine Learning and Nonparametric Bayesian Statistics|  [:movie_camera:](https://www.youtube.com/watch?v=5KdWhDpeQvU&t=1402s&ab_channel=TelewizjaStudenckaPolitechnikiWroc%C5%82awskiejSTYK) |  |  | [:link:](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html)
 |Siddhartha Banerjee - Information Theory & Bayesian ML| | | | [:link:](https://people.orie.cornell.edu/sbanerjee/courses/orie4742s21/)
 
-### Deep Learning
+### [Deep Learning]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
-### Reinforcement Learning
+### [Reinforcement Learning]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
 ## Mathematical Programming & Optimization
 
-### Linear Programming
+### [Linear Programming]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
-### Integer Programming
+### [Integer Programming]()
 | Resource | Video          | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 |          | :movie_camera: | :memo:        | :book: | :link:  |
 
-### Bayesian Optimization
+### [Stochastic Programming]()
+| Resource | Video          | Lecture Notes | Book   | Website |
+| ---      | :---:          | :---:         | :---:  | :---:   |
+|          | :movie_camera: | :memo:        | :book: | :link:  |
+
+
+### [Bayesian Optimization]()
 | Resource | Video | Lecture Notes | Book  | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Cornell CS4780 SP17 Machine Learning Lecture 27 | [:movie_camera:](https://www.youtube.com/watch?v=BzHJ57QCdVo) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
