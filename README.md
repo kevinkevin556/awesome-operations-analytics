@@ -27,7 +27,7 @@ A curated list of awesome video lectures and learning resources for operations a
 | Gilbert Strang - Matrix Methods in Data Analysis, Signal Processing,<br>and Machine Learning | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/assignments/) |  | [:link:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) |
 | Stephen Boyd - Introduction to Applied Linear Algebra: <br> Vectors, Matrices, and Least Squares | [:movie_camera:](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | |[:book:](https://web.stanford.edu/~boyd/vmls/vmls.pdf)| [:link:](https://web.stanford.edu/~boyd/vmls/)
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 | NCTU Math - Linear Algebra I  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=271) |
 | NCTU Math - Linear Algebra II | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=361) |
