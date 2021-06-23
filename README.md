@@ -1,4 +1,7 @@
-# Learning Resourses for Machine Learning, Mathematical Programming and Optimization
+# Awesome Operations Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome video lectures and learning resources for operations analytics.
+
 
 * [Linear Algebra](#linear-algebra)
 * [Statistics](#statistics)
@@ -15,13 +18,13 @@
   *  [Stochastic Programming](#stochastic-programming)
   *  [Bayesian Optimization](#bayesian-optimization)
 
-### Linear Algebra
+## Linear Algebra
 | Resource &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video | Lecture Notes | Book   | Website |
 | ---      | :---:          | :---:         | :---:  | :---:   |
 | NCTU Math - Linear Algebra I  | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=271) |
 | NCTU Math - Linear Algebra II | [:movie_camera:](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=1&gid=1&nid=361) |
 | Gilbert Strang - Linear Algebra |[:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |
-| Gilbert Strang -Matrix Methods in Data Analysis, Signal Processing, and <br> Machine Learning | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/assignments/) |  | [:link:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) |
+| Gilbert Strang - Matrix Methods in Data Analysis, Signal Processing, and <br> Machine Learning | [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/assignments/) |  | [:link:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) |
 | Stephen Boyd - Introduction to Applied Linear Algebra: <br> Vectors, Matrices, and Least Squares | [:movie_camera:](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | |[:book:](https://web.stanford.edu/~boyd/vmls/vmls.pdf)| [:link:](https://web.stanford.edu/~boyd/vmls/)
 
 
