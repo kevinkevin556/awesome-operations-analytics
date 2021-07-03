@@ -28,6 +28,7 @@ A curated list of awesome video lectures and learning resources for operations a
 | [MIT - 18.065/18.0651 - Matrix Methods in Data Analysis,<br>Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Gilbert%20Strang&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16">| [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/assignments/) |  
 | [Stanford - ENGR108 - Introduction to Applied Linear Algebra: <br> Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)<br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Stephen%20Boyd&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16">| [:movie_camera:](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | |[:book:](https://web.stanford.edu/~boyd/vmls/vmls.pdf)|
 
+<br>
 
 ## Statistics
 
@@ -40,8 +41,9 @@ A curated list of awesome video lectures and learning resources for operations a
 | [MIT - 18.650/18.6501 - Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Philippe%20Rigollet&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16">| [:movie_camera:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/) | [:memo:](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides) | 
 | [CMU - 36-705 - Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Larry%20Wasserman&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16"> | [:movie_camera:](https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_) | [:memo:](http://www.stat.cmu.edu/~larry/=stat705/) | [:book:](https://github.com/thefuryelement/Readers-Solitude/raw/master/All%20Of%20Statistics%20-%20Larry%20Wasserman.pdf) |
 
+<br>
 
-### [Bayesian Statistics]()
+### Bayesian Statistics
 | Resource &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video | Lecture Notes | Book   | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Multivariate Analysis: Model-Based Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLKBC9odgDUw5NYjpKbIq0U-Vbg_JCsx4U)|
@@ -50,48 +52,58 @@ A curated list of awesome video lectures and learning resources for operations a
 | Statistical Rethinking |[:movie_camera:](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)| [:memo:](https://github.com/rmcelreath/stat_rethinking_2020)|[:book:](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf)|[:link:](http://xcelab.net/rm/statistical-rethinking/)|
 | A Student’s Guide to Bayesian Statistics | [:movie_camera:](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG) | | [:book:](https://dokumen.pub/download/a-students-guide-to-bayesian-statistics-2017942214-9781473916357-9781473916364.html)
 
+<br>
 
-### [Gaussian Process]()
+### Gaussian Process
 | Resource &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video | Lecture Notes | Book   | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Cornell CS4780 SP17 Machine Learning Lecture 26 | [:movie_camera:](https://www.youtube.com/watch?v=R-NUdqxKjos&t=1416s) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
 | CPSC 540 Introduction to Gaussian processes |  [:movie_camera:](https://www.youtube.com/watch?v=4vGiHC35j9s) | [:memo:](https://www.cs.ubc.ca/~nando/540-2013/lectures/l6.pdf)
 | CPSC 540 Introduction Gaussian processes |  [:movie_camera:](https://www.youtube.com/watch?v=MfHKW5z-OOA&t=2857s) | [:memo:](https://www.cs.ubc.ca/~nando/540-2013/lectures/l6.pdf)
 
+<br>
 
 ## Machine Learning
-
  
-### [General Machine Learning / Statistical Machine Learning]()
+### General Machine Learning / Statistical Machine Learning
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 |          | :movie_camera: | :memo:        | :book: |
 
+<br>
 
-### [Probalistic Machine Learning / Bayesian Learning]()
+### Probalistic Machine Learning / Bayesian Learning
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 |[Machine Learning and Nonparametric Bayesian Statistics](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Zoubin%20Ghahramani&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16">|  [:movie_camera:](https://www.youtube.com/watch?v=5KdWhDpeQvU&t=1402s&ab_channel=TelewizjaStudenckaPolitechnikiWroc%C5%82awskiejSTYK) |  |  
 |[Information Theory & Bayesian ML](https://people.orie.cornell.edu/sbanerjee/courses/orie4742s21/) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Siddhartha%20Banerjee&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16">| [:movie_camera:](https://people.orie.cornell.edu/sbanerjee/courses/orie4742s21/) | |
 
-### [Deep Learning]()
+<br>
+
+### Deep Learning
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 |          | :movie_camera: | :memo:        | :book: |
 
-### [Reinforcement Learning]()
+<br>
+
+### Reinforcement Learning
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 |          | :movie_camera: | :memo:        | :book: |
+
+<br>
 
 ## Mathematical Programming & Optimization
 
-### [Linear Programming]()
+### Linear Programming
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  |
 | [NCTU Linear Programming](https://youtube.com/playlist?list=PL8Ts34HGHzBzGQA4qzH96INl5YHv_tdM3)  &nbsp; <img src="https://img.shields.io/static/v1?label=Instrutor&message=%E6%96%B9%E8%BF%B0%E8%AA%A0&color=red&style=flat-square&labelColor=lightgrey" height="17"> <img src="https://img.shields.io/static/v1?label=lang&message=zh-TW&color=brightgreen&style=flat-square&labelColor=lightgrey" height="17"> | [:movie_camera:](https://youtube.com/playlist?list=PL8Ts34HGHzBzGQA4qzH96INl5YHv_tdM3) | [:memo:](https://ocw.nctu.edu.tw/course/ip002/lecture_IP1.pdf)
 
-### [Integer Programming & Combinatorial Optimization]()
+<br>
+
+### Integer Programming & Combinatorial Optimization
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
@@ -100,19 +112,23 @@ A curated list of awesome video lectures and learning resources for operations a
 | [UT-Austin - Combinatorial Optimization](https://caramanis.github.io/teaching/) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Constantine%20Caramanis&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16"> | [:movie_camera:](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL) | |[:book:](http://31.42.184.140/main/2238000/d249886ca835a204b71df1bd90736780/%28Mathematical%20optimization%29%20Christos%20H.%20Papadimitriou%2C%20Kenneth%20Steiglitz%20-%20Combinatorial%20Optimization_%20Algorithms%20and%20Complexity.%201-Prentice%20Hall%20%281998%29.pdf) |
 | [Universidad de Burgos - Introduction to Metaheuristics](https://www.youtube.com/playlist?list=PLN4kTzLXGGgWNf4CDyoZZOsjOCftW5ej6) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Luis%20R.%20Izquierdo&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16"> | [:movie_camera:](https://www.youtube.com/playlist?list=PLN4kTzLXGGgWNf4CDyoZZOsjOCftW5ej6) | [:memo:](https://www.dropbox.com/s/zl0kfxqmmmlvhss/Introduction%20to%20metaheuristics.pdf?dl=0)
 
+<br>
 
-### [Stochastic Programming]()
+### Stochastic Programming
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 | [LINMA 2491  Operations Research](https://ap-rg.eu/courses/operations-research-linma-2491/) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Anthony%20Papavasiliou&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16"> | [:movie_camera:](https://www.youtube.com/user/el011301/videos) | [:memo:](https://ap-rg.eu/courses/operations-research-linma-2491/)| [:book:](http://ie.sharif.edu/~sp/%5BJohn_R._Birge,_Fran%C3%A7ois_Louveaux%5D_Introduction_t(BookFi.%20org).pdf) | 
 | [IMPA - Basic Course on Stochastic Programming](https://svan2016.sciencesconf.org/resource/page/id/26.html) <br> <img src="https://img.shields.io/static/v1?label=Instrutor&message=Welington%20de%20Oliveira,%20Juan%20Pablo%20Luna,%20Claudia%20Sagastizábal&color=red&style=flat-square&labelColor=lightgrey" height="16"> <img src="https://img.shields.io/static/v1?label=lang&message=EN&color=brightgreen&style=flat-square&labelColor=lightgrey" height="16">|  [:movie_camera:](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSmKVxiE130o1KebekNk00R) | [:memo:](https://svan2016.sciencesconf.org/resource/page/id/26.html) | [:book:](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/4/1470/files/2021/03/SPbook.pdf) |
 
+<br>
 
-### [Convex Optimization]()
+### Convex Optimization
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video Lectures | Lecture Notes | Book   |
 | ---      | :---:          | :---:         | :---:  | 
 
-### [Bayesian Optimization]()
+<br>
+
+### Bayesian Optimization
 | Resource &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Video | Lecture Notes | Book   | Website |
 | ---      | :---:   | :---:       | :---: | :---:   |
 | Cornell CS4780 SP17 Machine Learning Lecture 27 | [:movie_camera:](https://www.youtube.com/watch?v=BzHJ57QCdVo) | [:memo:](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) | [:book:](http://www.gaussianprocess.org/gpml/chapters/RW2.pdf)
